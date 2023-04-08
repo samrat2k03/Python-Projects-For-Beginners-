@@ -9,12 +9,7 @@ else:
 score1 = score
 
 if score1 >= 50 :
-    print("pass")
+    print("Congragulations you have pass marks ")
 else :
-    print("false")
+    print("Try again , keep going")
 
-#this code is pythonic 
-
-score2 = score
-if 60 >= score <= 80 :
-    print("super")  
